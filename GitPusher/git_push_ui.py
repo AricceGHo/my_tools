@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file '/home/ariccegho/git/GitPusher/GitPusher.ui'
+# Form implementation generated from reading ui file '/home/ariccegho/mytools/GitPusher/GitPusher.ui'
 #
 # Created by: PyQt5 UI code generator 5.13.0
 #

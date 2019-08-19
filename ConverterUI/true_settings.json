@@ -1,26 +1,19 @@
-[
-    {
-        "Converter": {
+{
+    "ui_data": [
+        {
+            "name": "Coverter",
             "ui_path": "/home/ariccegho/mytools/ConverterUI/ConverterUbuntu.ui",
             "py_path": "/home/ariccegho/mytools/ConverterUI/ConverterUbuntuUI.py"
-        }
-    },
-    {
-        "GitPusher": {
+        },
+        {
+            "name": "GitPusher",
             "ui_path": "/home/ariccegho/mytools/GitPusher/GitPusher.ui",
-            "py_path": "/home/ariccegho/mytools/GitPusher/git_push_ui.py"
-        }
-    },
-    {
-        "ETPS": {
+            "py_path": "/home/ariccegho/mytools/GitPusher/GitPush.py"
+        },
+        {
+            "name": "ETPS",
             "ui_path": "/home/ariccegho/git/PythonProjects/test3.ui",
             "py_path": "/home/ariccegho/git/PythonProjects/ui_test3.py"
         }
-    },
-    {
-        "TEST": {
-            "ui_path": "/home/ariccegho/git/PythonProjects/test3.ui",
-            "py_path": "/home/ariccegho/git/PythonProjects/ui_test3.py"
-        }
-    }
-]
+    ]
+}
